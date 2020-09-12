@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=lourensv)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lourensv&layout=compact&hide=html)
